@@ -1,2 +1,2 @@
 # PlanetsAPI
-Simple API that performs basic operations (CRUD) built using .NET and Entity Framework.
+Simple REST API that performs basic operations (CRUD) built using .NET and Entity Framework.
